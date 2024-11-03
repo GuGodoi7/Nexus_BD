@@ -1,0 +1,6 @@
+@BDNexus_HostAddress = http://localhost:5009
+
+GET {{BDNexus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
